@@ -1,6 +1,6 @@
 {
   "name": "amin-qoutes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "get random qoutes",
   "main": "index.js",
   "scripts": {
