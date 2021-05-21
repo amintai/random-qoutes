@@ -1,4 +1,4 @@
-
+const data = require('./data')
 function getQoute(){
     var random = Math.random()
     var res = Math.floor(random*100)
@@ -6,6 +6,7 @@ function getQoute(){
         res = res - 10
     return data[res]
 }
+
 module.exports = {
     getQoute : getQoute
 }

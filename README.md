@@ -11,6 +11,12 @@
 <a href=https://github.com/poojarathore30/make-me-laugh>
    <img src=https://img.shields.io/github/license/amintai/random-qoutes>
 </a>
+<<<<<<< HEAD
+=======
+<!-- <a href=https://github.com/poojarathore30/make-me-laugh>
+   <img src=https://img.shields.io/twitter/url?style=social>
+</a> -->
+>>>>>>> 01f5bfb1470db4e6eca93f501d41ee5e8b3fd27d
 
 
 #### An [NPM](https://www.npmjs.com/package/amin-qoutes) Package which returns random **QOUTES**.
