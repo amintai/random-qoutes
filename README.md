@@ -49,6 +49,6 @@ console.log(myQoute);
 Check out my other Repositories [here](https://github.com/amintai)
 
 # Connect 
-> [Linkedin](https://www.linkedin.com/in/amintai)
+[Linkedin](https://www.linkedin.com/in/amintai)
 
-> [Gmail](amintai157@gmail.com)
+[Gmail](amintai157@gmail.com)
