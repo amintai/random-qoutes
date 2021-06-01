@@ -29,7 +29,7 @@ Before installing, download and install  Node.js.
 Installation of package is done using the npm install command:
 ```bash
 $ npm install --save amin-qoutes
-
+```
 ### Usage
 * Requiring the module 
 
@@ -48,7 +48,7 @@ console.log(myQoute);
 
 Check out my other Repositories [here](https://github.com/amintai)
 
-Connect 
+# Connect 
 [Linkedin](https://www.linkedin.com/in/amintai)
 
 
