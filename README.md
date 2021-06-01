@@ -1,5 +1,5 @@
 #get random qoutes
-<a href=https://github.com/amintai/random-qoutes>
+<!-- <a href=https://github.com/amintai/random-qoutes>
    <img src=https://img.shields.io/github/issues/amintai/random-qoutes>
 </a>
 <a href=https://github.com/poojarathore30/make-me-laugh>
@@ -10,7 +10,7 @@
 </a>
 <a href=https://github.com/poojarathore30/make-me-laugh>
    <img src=https://img.shields.io/github/license/amintai/random-qoutes>
-</a>
+</a> -->
 <<<<<<< HEAD
 =======
 <!-- <a href=https://github.com/poojarathore30/make-me-laugh>
