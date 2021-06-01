@@ -42,7 +42,7 @@ var qoute = require('amin-qoutes');
  
 var myQoute = qoute.getQoute();
 console.log(myQoute);
-
+```
 
 # Thankyou for being here! 😊
 
