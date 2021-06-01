@@ -48,7 +48,8 @@ console.log(myQoute);
 
 Check out my other Repositories [here](https://github.com/amintai)
 
-# Connect 
+Connect 
 [Linkedin](https://www.linkedin.com/in/amintai)
+
 
 [Gmail](amintai157@gmail.com)
